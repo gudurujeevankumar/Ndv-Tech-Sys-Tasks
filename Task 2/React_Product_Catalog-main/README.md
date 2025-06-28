@@ -1,6 +1,6 @@
 
 # React Product Catalog
-====================
+----------------------
 This is a React-based product catalog application that allows users to browse, search, and filter products. The project is designed to be modular and scalable, with reusable components and a clean structure.
 
 # Project is live 
